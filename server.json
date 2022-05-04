@@ -13,7 +13,7 @@
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yrppw&psig=AOvVaw3fkzOUfbnFFr7U0SZBVTB8&ust=1651760216181000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLixvbmExvcCFQAAAAAdAAAAABAD",
+      "name": "peter parker",
+      "price": "1,99",
+      "description": "miranha",
+      "available": true,
+      "id": 4
     }
   ]
 }
